@@ -1,4 +1,4 @@
-# CustomerVista: AI-Powered Customer Intelligence Platform
+# CustomerVista: Customer Intelligence Platform
 
 ## Overview
 
