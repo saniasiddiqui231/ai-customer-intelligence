@@ -90,6 +90,7 @@ CustomerVista provides a complete 360-degree view of customers through customer 
 * Docker
 * Render
 * Vercel
+* Supabase
 
 ---
 
