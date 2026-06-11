@@ -79,7 +79,7 @@
 // export default Dashboard;
 import { useEffect, useState } from "react";
 import api from "../api";
-import KPICard from "../components/KPICard";
+import KPICard from "../components/KPIcards";
 import PageHeader from "../components/PageHeader";
 import { formatCurrency } from "../utils/formatters";
 

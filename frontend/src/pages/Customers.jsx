@@ -218,7 +218,7 @@
 import { useEffect, useState } from "react";
 import api from "../api";
 import PieChartComponent from "../components/PieChartComponent";
-import KPICard from "../components/KPICard";
+import KPICard from "../components/KPIcards";
 import CLVDistributionChart from "../components/CLVDistributionChart";
 import PageHeader from "../components/PageHeader";
 import Card from "../components/Card";
